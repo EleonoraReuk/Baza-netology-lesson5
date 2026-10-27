@@ -1,0 +1,5 @@
+C:\Users\user\OneDrive\Desktop\Учёба\Нетология\DataBase\Clients\Clients\x64\Debug\pqxx.dll
+C:\Users\user\OneDrive\Desktop\Учёба\Нетология\DataBase\Clients\Clients\x64\Debug\libpq.dll
+C:\Users\user\OneDrive\Desktop\Учёба\Нетология\DataBase\Clients\Clients\x64\Debug\libssl-3-x64.dll
+C:\Users\user\OneDrive\Desktop\Учёба\Нетология\DataBase\Clients\Clients\x64\Debug\libcrypto-3-x64.dll
+C:\Users\user\OneDrive\Desktop\Учёба\Нетология\DataBase\Clients\Clients\Clients\x64\Debug\Clients.vcxproj.Up2Date

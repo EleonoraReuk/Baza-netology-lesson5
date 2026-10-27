@@ -1,0 +1,8 @@
+﻿  main.cpp
+  client_manager.cpp
+  Создание кода...
+  Clients.vcxproj -> C:\Users\user\OneDrive\Desktop\Учёба\Нетология\DataBase\Clients\Clients\x64\Debug\Clients.exe
+  C:\vcpkg\installed\x64-windows\debug\bin\pqxx.dll -> C:\Users\user\OneDrive\Desktop\Учёба\Нетология\DataBase\Clients\Clients\x64\Debug\pqxx.dll: готово
+  C:\vcpkg\installed\x64-windows\debug\bin\libpq.dll -> C:\Users\user\OneDrive\Desktop\Учёба\Нетология\DataBase\Clients\Clients\x64\Debug\libpq.dll: готово
+  C:\vcpkg\installed\x64-windows\debug\bin\libssl-3-x64.dll -> C:\Users\user\OneDrive\Desktop\Учёба\Нетология\DataBase\Clients\Clients\x64\Debug\libssl-3-x64.dll: готово
+  C:\vcpkg\installed\x64-windows\debug\bin\libcrypto-3-x64.dll -> C:\Users\user\OneDrive\Desktop\Учёба\Нетология\DataBase\Clients\Clients\x64\Debug\libcrypto-3-x64.dll: готово
